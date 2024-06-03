@@ -1,0 +1,1 @@
+This directory contains the code, figures, plotting scripts and data for the dumbbells project. In /Data_and_Figures is all the data, plotting scripts and plots/figures for the project. The folders contain a readme which will direct the reader to the relevant code (analysis, simulation and theory) which is kept in the /Code folder. 
